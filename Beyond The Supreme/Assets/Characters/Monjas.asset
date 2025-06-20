@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 283aa1e0a31a1b7458df154504c52680, type: 3}
+  m_Name: Monjas
+  m_EditorClassIdentifier: 
+  nameChac: Monja
+  dialogs:
+  - text: "Que desagradable es tener que ver a \u201Cesto\u201D desde por la ma\xF1ana. "
+    expression: {fileID: 21300000, guid: 05721989cea07714fa73778ec431e6bf, type: 3}
+    dialogIlustration: {fileID: 21300000, guid: 90ce9f43baae8574aaabc8b57c6e2597, type: 3}
+    speakerName: Monja 1
+  - text: "Que el Se\xF1or nos conceda paciencia."
+    expression: {fileID: 21300000, guid: 17bcfcf2a5110014b9d27dd83e65da21, type: 3}
+    dialogIlustration: {fileID: 21300000, guid: ab85ad26fd88d1040ae514de163828c1, type: 3}
+    speakerName: Monja 1
+  - text: "Verlo dormir con tanta paz, como si fuera digno de la gracia divina\u2026"
+    expression: {fileID: 21300000, guid: d87a2a2fd97d2434ca18f8d88039c088, type: 3}
+    dialogIlustration: {fileID: 21300000, guid: 90ce9f43baae8574aaabc8b57c6e2597, type: 3}
+    speakerName: Monja 2
+  - text: "Deber\xEDa estar de rodillas, rezando por el perd\xF3n de sus pecados
+      y por la voluntad de nosotras, sus Diosas."
+    expression: {fileID: 21300000, guid: 2183aefc31af5144b8a6a48932a582df, type: 3}
+    dialogIlustration: {fileID: 21300000, guid: 61c614563a8ca8b4c93b1d6a7ee92996, type: 3}
+    speakerName: Monja 2
+  - text: ...
+    expression: {fileID: 21300000, guid: ca8d38e7198d199448341b521397524a, type: 3}
+    dialogIlustration: {fileID: 21300000, guid: a6dbe3304e15b664180a921005c32b08, type: 3}
+    speakerName: Alan
+  - text: Creo que merece un castigo en nombre del cielo, por osar descansar en nuestra
+      presencia.
+    expression: {fileID: 21300000, guid: 05721989cea07714fa73778ec431e6bf, type: 3}
+    dialogIlustration: {fileID: 21300000, guid: ab85ad26fd88d1040ae514de163828c1, type: 3}
+    speakerName: Monja 1
+  ilustrations:
+  - {fileID: 21300000, guid: 89d51c166adb43f4dae03b85c2957ae3, type: 3}
+  Position: {x: 90, y: 24}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c0bfbeccca460541ba6c6d3e2684f17, type: 3}
+  m_Name: Object_4
+  m_EditorClassIdentifier: 
+  nameObject: Object_RoomErika
+  ilustration: {fileID: 21300000, guid: cbc49c67ed1c05a4aaea4c0091ef32db, type: 3}
+  objectDescriptions:
+  - title: Formas
+    description: "Se han utilizado siluetas con l\xEDneas curvas y formas circulares."
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  - title: Formas
+    description: El objetivo era transmitir una imagen visualmente inofensiva.
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  - title: Formas
+    description: "Estas formas reflejan su lado m\xE1s afectivo y cercano."
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  - title: Formas
+    description: "Aun as\xED, a lo largo de la historia se revelan capas m\xE1s oscuras,\nmarcadas
+      por traumas y decisiones del pasado."
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  - title: Siluetas
+    description: "Se ha buscado transmitir sabidur\xEDa, magia e inteligencia."
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  - title: Siluetas
+    description: "Para ello, se han tomado como referencia figuras arquet\xEDpicas
+      de hechiceras."
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  - title: Siluetas
+    description: "Su dise\xF1o mantiene una est\xE9tica ligeramente oscura,\ncoherente
+      con el tono de fantas\xEDa oscura del universo."
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  - title: Siluetas
+    description: "Tambi\xE9n se han incorporado elementos de moda g\xF3tica en su
+      vestimenta."
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  - title: Siluetas
+    description: Esto refuerza la dualidad entre poder, misterio y elegancia.
+    ilustration: {fileID: 21300000, guid: c81c2e84118a18f44bac06fc51db5136, type: 3}
+  Position: {x: -14, y: 26}
