@@ -2673,7 +2673,8 @@ MonoBehaviour:
   m_text: "Creado y hecho por Miriam Sanz Tard\xF3n.\nPara el TFG: CREACI\xD3N DEL
     PROTOTIPO DE UNA HERRAMIENTA INTERACTIVA PARA LA PRESENTACI\xD3N DEL CONCEPT
     ART Y EL DISE\xD1O NARRATIVO DE UN VIDEOJUEGO\n\nCurso acad\xE9mico: 24/25\n\nTutorizado
-    por: Juan Manuel Ruiz Prieto\r\nElena Villamarin Fern\xE1ndez"
+    por: Juan Manuel Ruiz Prieto\r\nElena Villamarin Fern\xE1ndez\n\nAudio sacado
+    de Pixabay creado por: Mike Kripak"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
