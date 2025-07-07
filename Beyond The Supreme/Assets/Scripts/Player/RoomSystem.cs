@@ -128,11 +128,11 @@ public class RoomSystem : MonoBehaviour
         {
             if (character == null)
             {
-                Debug.LogError("❌ Personaje nulo en la habitación.");
+                Debug.LogError("Personaje nulo en la habitación.");
                 continue;
             }
 
-            Debug.Log($"🔍 Cargando personaje: {character.Name}");
+            Debug.Log($"Cargando personaje: {character.Name}");
 
             GameObject charObj = new GameObject(character.Name);
             charObj.transform.SetParent(characterContainer);
@@ -141,7 +141,7 @@ public class RoomSystem : MonoBehaviour
 
             if (character.Ilustrations == null || character.Ilustrations.Count == 0)
             {
-                Debug.LogError($"❌ {character.Name} no tiene ilustraciones asignadas.");
+                Debug.LogError($"{character.Name} no tiene ilustraciones asignadas.");
                 continue;
             }
 
